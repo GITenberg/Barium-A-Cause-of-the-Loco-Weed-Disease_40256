@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '40509'
     url: http://www.gutenberg.org/2009/agents/40509
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40256#Barium-A-Cause-of-the-Loco-Weed-Disease
 gutenberg_issued: '2012-07-16'
 gutenberg_type: Text
 identifiers:
